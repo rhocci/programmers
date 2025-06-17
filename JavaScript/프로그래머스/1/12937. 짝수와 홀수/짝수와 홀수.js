@@ -1,0 +1,1 @@
+const solution = (num) => num ? num % 2 ? 'Odd' : 'Even' : 'Even';
