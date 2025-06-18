@@ -1,0 +1,1 @@
+let solution = (str) => str.length * 2;
